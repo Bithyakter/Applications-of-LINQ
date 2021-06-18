@@ -1,0 +1,7 @@
+E:\C#\Practise\Garments\Garments\bin\Debug\Garments.exe.config
+E:\C#\Practise\Garments\Garments\bin\Debug\Garments.exe
+E:\C#\Practise\Garments\Garments\bin\Debug\Garments.pdb
+E:\C#\Practise\Garments\Garments\obj\Debug\Garments.csprojAssemblyReference.cache
+E:\C#\Practise\Garments\Garments\obj\Debug\Garments.csproj.CoreCompileInputs.cache
+E:\C#\Practise\Garments\Garments\obj\Debug\Garments.exe
+E:\C#\Practise\Garments\Garments\obj\Debug\Garments.pdb

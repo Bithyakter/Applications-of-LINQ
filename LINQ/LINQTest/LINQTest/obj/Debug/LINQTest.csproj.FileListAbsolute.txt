@@ -1,0 +1,2 @@
+E:\C#\All Evidence\LINQTest\LINQTest\obj\Debug\LINQTest.csprojAssemblyReference.cache
+E:\C#\All Evidence\LINQTest\LINQTest\obj\Debug\LINQTest.csproj.CoreCompileInputs.cache

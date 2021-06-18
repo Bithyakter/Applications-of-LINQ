@@ -1,0 +1,7 @@
+E:\C#\C#\Evidence04\LINQ\obj\Debug\LINQ.csprojAssemblyReference.cache
+E:\C#\C#\Evidence04\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+E:\C#\C#\Evidence04\LINQ\bin\Debug\LINQ.exe.config
+E:\C#\C#\Evidence04\LINQ\bin\Debug\LINQ.exe
+E:\C#\C#\Evidence04\LINQ\bin\Debug\LINQ.pdb
+E:\C#\C#\Evidence04\LINQ\obj\Debug\LINQ.exe
+E:\C#\C#\Evidence04\LINQ\obj\Debug\LINQ.pdb

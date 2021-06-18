@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evidence04", "Evidence04\Evidence04.csproj", "{CFC79126-0491-4600-8111-AF1DCD52D66A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{CB9E1D71-A8A1-4D26-9A87-9E76BCC6766D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiTasking", "MultiTasking\MultiTasking.csproj", "{CBA2100D-B40D-4515-AF68-A29CF6904E46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFC79126-0491-4600-8111-AF1DCD52D66A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFC79126-0491-4600-8111-AF1DCD52D66A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFC79126-0491-4600-8111-AF1DCD52D66A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFC79126-0491-4600-8111-AF1DCD52D66A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB9E1D71-A8A1-4D26-9A87-9E76BCC6766D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB9E1D71-A8A1-4D26-9A87-9E76BCC6766D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB9E1D71-A8A1-4D26-9A87-9E76BCC6766D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB9E1D71-A8A1-4D26-9A87-9E76BCC6766D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBA2100D-B40D-4515-AF68-A29CF6904E46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBA2100D-B40D-4515-AF68-A29CF6904E46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBA2100D-B40D-4515-AF68-A29CF6904E46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBA2100D-B40D-4515-AF68-A29CF6904E46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C987AC9-FA5E-40D7-B123-24224EA0D40F}
+	EndGlobalSection
+EndGlobal
